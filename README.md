@@ -1,1 +1,2 @@
-# systems-lab-2021
+# js-interactivity-workshop
+in class workshop for js interactivity examples
